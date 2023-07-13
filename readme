@@ -5,4 +5,4 @@
 3.after registration if registration is successfully done then go to home page and login.
 6. by using the registered details we can login into the web page. and it redirects into the page where it leads to upload.php
 7.in upload.php file we have the form to fill up the details of which product to upload.
-8.change branch from main to product upload which i shared the product upload,delete,view,read(CRUD).
+8.change branch from main to product upload where i shared the product upload,delete,view,read(CRUD).
